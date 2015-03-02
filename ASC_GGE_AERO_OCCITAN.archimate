@@ -5412,6 +5412,7 @@ e-business</documentation>
         </child>
       </element>
     </folder>
+    <folder name="Futur" id="54d3d880"/>
     <element xsi:type="archimate:ArchimateDiagramModel" id="425f049a" name="0_PLAN">
       <child xsi:type="archimate:DiagramModelReference" id="18388e98" textAlignment="2" fillColor="#38f60a" model="fc5beedb">
         <bounds x="12" y="117" width="709" height="448"/>
